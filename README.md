@@ -26,7 +26,7 @@ Run the following command for training
 python train.py
 ~~~
 
-Run the following command for classfying when input with a message
+Run the following command for classifying when input with a message
 
 ~~~bash
 python spam_classifier.py
